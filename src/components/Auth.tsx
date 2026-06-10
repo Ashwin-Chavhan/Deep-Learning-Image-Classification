@@ -37,7 +37,7 @@ export function Auth() {
           <div className="flex items-center justify-center mb-8">
             <div className="bg-gradient-to-br from-white-600 to-cyan-600 p-4 rounded-2xl shadow-lg">
               <img
-                src="/images/image-classification-logo.png"
+                src="/images/logo.png"
                 alt="VisionAI Logo"
                 className="w-14 h-14 object-contain"
               />

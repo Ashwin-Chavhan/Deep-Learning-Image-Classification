@@ -25,7 +25,7 @@ export function Dashboard() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-3">
               <img
-                src="/images/image-classification-logo.png"
+                src="/images/logo.png"
                 alt="VisionAI Logo"
                 className="w-10 h-10 object-contain"
               />
